@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="Myanmar PocketBook banner" src="./components/img/mm-web-banner.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Myanmar Words and Proverbs Dictionary
 
 This contains everything you need to run your app locally.
 
