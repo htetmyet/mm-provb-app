@@ -39,4 +39,4 @@ docker compose build
 docker compose up -d
 ```
 
-The app will be served on http://localhost:8080 and can be stopped with `docker compose down`.
+The app will be served on http://localhost:6060 and can be stopped with `docker compose down`.
